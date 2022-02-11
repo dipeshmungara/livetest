@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/venuspre/public_html/
+    - export DEPLOYPATH=/home/venuspre/public_html/gittest.venusprecision.com/
     - /bin/cp * $DEPLOYPATH
